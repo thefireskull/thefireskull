@@ -11,8 +11,6 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/thefireskull](https://github.com/thefireskull)
-
 - 💬 Ask me about **Javascript and NodeJS**
 
 - 📫 How to reach me **the.skull@myyahoo.com**
