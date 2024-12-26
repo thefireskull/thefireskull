@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWJ5dGxrZDF5bW51aHIxczNuY2ZsODQyZm52dm5wcXI2MjA3bnprdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thefireskull&label=Profile%20views&color=0e75b6&style=flat" alt="thefireskull" /> </p>
+<p align="left">  <img src="https://visitcount.itsvg.in/api?id=thefireskull&label=Profile%20Views&color=6&icon=5&pretty=false" alt="thefireskull" /> </p>
 
 - 🔭 I’m currently working on **Nothing**
 
